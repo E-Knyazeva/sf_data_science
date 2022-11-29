@@ -31,6 +31,7 @@
 ### Краткая информация о данных
 ....
 
+<<<<<<< HEAD
 :arrow_up:[к оглавлению](https://github.com/E-Knyazeva/sf_data_science/tree/main/project_0#оглавление)
 
 
@@ -50,3 +51,6 @@
 ....
 
 :arrow_up:[к оглавлению](https://github.com/E-Knyazeva/sf_data_science/tree/main/project_0#оглавление)
+=======
+:arrow_up:[к оглавлению]()
+>>>>>>> ab60e7f97678f07caf949557e67a0db91756cb08
