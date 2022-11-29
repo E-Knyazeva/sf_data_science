@@ -1,9 +1,9 @@
-# Проект 0ю Угадай число
+# Проект 0. Угадай число
 
 ## Оглавление
-[1. Описание проекта]()
-[2. Какой кейс решаем?]()
-[3. Краткя информация о данных]()
+[1. Описание проекта](https://github.com/E-Knyazeva/sf_data_science/tree/main/project_0#оглавление)
+[2. Какой кейс решаем?](https://github.com/E-Knyazeva/sf_data_science/tree/main/project_0#какой-кейс-решаем)
+[3. Краткая информация о данных](https://github.com/E-Knyazeva/sf_data_science/tree/main/project_0#краткая-информация-о-данных)
 [4. Этапы работы над проектом]()
 [5. Результат]()
 [6. Выводы]()
@@ -11,7 +11,7 @@
 ### Описание проекта
 Угадать загаданное компьютером число за минимальное число попыток
 
-:arrow_up:[к оглавлению]()
+:arrow_up:[к оглавлению](https://github.com/E-Knyazeva/sf_data_science/tree/main/project_0#оглавление)
 
 
 ### Какой кейс решаем?
@@ -31,4 +31,22 @@
 ### Краткая информация о данных
 ....
 
-:arrow_up:[к оглавлению]()
+:arrow_up:[к оглавлению](https://github.com/E-Knyazeva/sf_data_science/tree/main/project_0#оглавление)
+
+
+### Этапы работы над проектом
+....
+
+:arrow_up:[к оглавлению](https://github.com/E-Knyazeva/sf_data_science/tree/main/project_0#оглавление)
+
+
+### Результаты
+....
+
+:arrow_up:[к оглавлению](https://github.com/E-Knyazeva/sf_data_science/tree/main/project_0#оглавление)
+
+
+### Выводы
+....
+
+:arrow_up:[к оглавлению](https://github.com/E-Knyazeva/sf_data_science/tree/main/project_0#оглавление)
