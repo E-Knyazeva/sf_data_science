@@ -29,7 +29,7 @@ def random_predict(number: int = 1) -> int:
             min_number = predict_number + 1
             predict_number = (max_number + min_number) // 2
         else:
-            print(f"Алгоритм рассчитал число {number} за {count} попыток.")
+            #print(f"Алгоритм рассчитал число {number} за {count} попыток.")
             break # выход из цикла если угадали
     return count
 
