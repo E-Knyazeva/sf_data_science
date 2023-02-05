@@ -1,0 +1,64 @@
+import numpy as np
+arr = np.array([1,5,2,9,10])
+print(arr, type(arr))
+
+nd_arr = np.array([
+                    [12, 45, 79],
+                    [34, 56, 13],
+                    [12, 98, 76]
+                    ])
+print(nd_arr)
+
+print(arr.dtype)
+
+arr = np.array([1,5,2,9,10], dtype=np.int8)
+print(arr, type(arr))
+
+arr[2] = 2000
+print(arr)
+
+arr[2] = 125.5
+print(arr)
+
+arr[2] = '12'
+print(arr)
+
+arr = np.float16(arr)
+print(arr)
+
+
+arr = np.array([12321, -1234, 3435, -214, 100], dtype=np.int32)
+print(arr)
+
+arr = np.uint8(arr)
+print(arr)
+
+arr = np.array([345234, 876362.12, 0, -1000, 99999999], dtype=np.float16)
+print(arr)
+
+arr = np.array([1,5,2,9,10], dtype=np.int8)
+nd_arr = np.array([
+                    [12,45,78],
+                    [34,56,13],
+                    [12,98,76]
+                    ], dtype=np.int16)
+
+print(arr.ndim, nd_arr.ndim)
+print(arr.size, nd_arr.size)
+print(arr.shape, nd_arr.shape)
+print(arr.itemsize, nd_arr.itemsize)
+
+
+zeros_1d = np.zeros(5)
+print(zeros_1d)
+
+zeros_3d = np.zeros((5,4,3), dtype=np.float32)
+print(zeros_3d)
+
+
+arr = np.linspace(1,2,10)
+print(arr)
+
+
+arr, step = np.linspace(-6,21,num=60, endpoint=False, retstep=True)
+print(step)
